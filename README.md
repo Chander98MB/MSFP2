@@ -1,6 +1,6 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DrPaulValle/MSFBP2)
 
-# Práctica 2: Modelo del sistema cardiovascular
+# Práctica 2: Modelo de control del sistema cardiovascular mediante el modelo Windkessel
 
 ## Información del estudiante
 
